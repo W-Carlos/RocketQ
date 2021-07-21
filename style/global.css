@@ -25,7 +25,14 @@ html {
     font-size: 62.5%;
 }
 
-h2 {
-    /* 16px (User Agent) ----- 1.75rem*/
-    font-size: 2.8rem;
+body {
+    height: 100vh;
+    background: var(--background);
+}
+
+body, button, input, textarea {
+    /* clamp: intervalo de tamanho. Tamanho minimo 14px, tamanho padrão 1.6rem, e maior tamanho 2vw */
+    font-size: clamp(14px, 1.6rem, 2vw);
+    font-family: 'Open Sans', sans-serif;
+    /*font-family: 'Poppins', sans-serif;*/
 }
