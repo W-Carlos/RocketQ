@@ -1,3 +1,7 @@
+main {
+    padding-bottom: 4rem;
+}
+
 .content {
     max-width: min(112rem, 90%);
 }
@@ -93,6 +97,10 @@
 }
 
 /* Perguntas */
+.content {
+
+}
+
 .question-wrapper {
     background: var(--light-blue);
     margin-bottom: .8rem;
