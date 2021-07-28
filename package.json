@@ -1,7 +1,7 @@
 {
   "name": "RocketQ",
   "version": "1.0.0",
-  "description": "Aplicação de perguntas e respostas",
+  "description": "Projeto desenvolvido para gerenciar perguntas anônimas.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,14 @@
     "url": "git+https://github.com/W-Carlos/RocketQ.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Wend Carlos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/W-Carlos/RocketQ/issues"
   },
-  "homepage": "https://github.com/W-Carlos/RocketQ#readme"
+  "homepage": "https://github.com/W-Carlos/RocketQ#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
 }
