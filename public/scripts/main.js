@@ -13,5 +13,12 @@ checkButtons.forEach(button => {
     })
 })
 
-// Pegar quando o marcar como lido for clicado
+// Quando o botão delete for clicado ele abre a modal
+const deleteButton = document.querySelectorAll(".actions a.delete")
+
+deleteButton.forEach(button => {
+    button.addEventListener("click", evente => {
+        modal.open()
+    })
+})
 
