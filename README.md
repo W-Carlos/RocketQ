@@ -24,3 +24,6 @@
 >## 📝 Licença
 <p>Esse projeto está sob a licença MIT.</p>
 
+---
+<p align="center">Feito by 👋 Wend Carlos</p>
+
