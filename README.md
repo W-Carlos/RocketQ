@@ -45,7 +45,7 @@ $ npm start
 ```
 
 >## 📝 Licença
-<p>Esse projeto está sob a licença MIT.</p>
+<p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/W-Carlos/RocketQ/blob/main/LICENSE">LICENSE</a> para mais detalhes.</p>
 
 ---
 <p align="center">Feito by 👋 Wend Carlos</p>
